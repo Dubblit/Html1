@@ -1,0 +1,59 @@
+body {
+  background-color: chartreuse;
+}
+
+h1 {
+  color: Deeppink;
+  margin-left: 20px;
+  outline-style: solid;
+  outline-width: 20px;
+  outline-color: blue;
+}
+
+p{
+
+  color: blue;
+  width: 20px;
+  margin-top:  50px;
+  margin-left: 100px;
+}
+
+button{
+  width: auto;
+  height: auto;
+  color: navy;
+  margin-left: 50px;
+}
+
+.Sunrise{
+  color: black;
+}
+
+.Sunrise p{
+  width: auto;
+  color: cyan;
+}
+
+.Universe{
+  color: black;
+}
+
+.Universe p{
+  width: auto;
+  color: black;
+}
+
+.Universe button{
+  width: auto;
+  outline-width: thick;
+  outline-color: cyan;
+  margin-left: 100px;
+  color: black;
+}
+
+#Area51{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    background-color: Black;
+}
